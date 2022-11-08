@@ -4,3 +4,7 @@
 #include<windows.h>
 #include<time.h>
 #include<conio.h>
+
+void main() {
+  
+}
